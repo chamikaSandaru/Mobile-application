@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636421594448",
+    "project_id": "namak-ne",
+    "storage_bucket": "namak-ne.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636421594448:android:843dc9e9fb1fec34b3e055",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWEFD8z-rvHrxWph5pvTa25wj3OBIcXyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
